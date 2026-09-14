@@ -1,4 +1,4 @@
-![Full Stack Development](https://github.com/yashcdev/yashcdev/blob/main/Black%20Liquid%20Minimalist%20Daily%20Quotes%20LinkedIn%20Banner%20(5).png)
+![Full Stack Development](https://github.com/user-attachments/assets/568c34f1-d4b5-4b21-8e53-68b8ca0bdd48)
 
 # 👋 Hello, I'm Yash Chavan 
 ## Full Stack Developer
