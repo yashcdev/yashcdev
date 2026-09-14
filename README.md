@@ -1,4 +1,4 @@
-![Full Stack Development](https://github.com/user-attachments/assets/9738a101-d4b1-4bca-bb3c-c779d7fa2a93)
+![Full Stack Development](https://github.com/user-attachments/assets/17bd43b9-f6b9-4048-9352-9c7af6a45dd6)
 
 # 👋 Hello, I'm Yash Chavan 
 ## Full Stack Developer
