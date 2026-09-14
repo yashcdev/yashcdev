@@ -1,4 +1,4 @@
-![Full Stack Development](https://github.com/YashChavanWeb/YashChavanWeb/blob/main/Black%20Liquid%20Minimalist%20Daily%20Quotes%20LinkedIn%20Banner%20(5).png)
+![Full Stack Development](https://github.com/yashcdev/yashcdev/blob/main/Black%20Liquid%20Minimalist%20Daily%20Quotes%20LinkedIn%20Banner%20(5).png)
 
 # 👋 Hello, I'm Yash Chavan 
 ## Full Stack Developer
@@ -8,11 +8,11 @@
 * 💻 **Experienced in developing and deploying projects** with MERN Stack, and GenAI technologies like LangChain, RAG & MCP Servers.
 * ☁️ **Currently exploring DevOps practices** with platforms like AWS to design scalable infrastructures and implement CI/CD pipelines.
 
-✍️ I am Passionate about sharing knowledge through engaging tutorials on my YouTube Channel - [Yash Chavan](https://www.youtube.com/@yashchavanweb)
+✍️ I am Passionate about sharing knowledge through engaging tutorials on my YouTube Channel - [Yash Chavan](https://www.youtube.com/@yashcdev)
 
 
 ## My Resume
-[Resume](https://yashchavanweb.github.io/Resume/Resume.pdf)
+[Resume](https://yashcdev.github.io/Resume/Resume.pdf)
 
 
 
@@ -71,25 +71,25 @@
 ![Tenserflow](https://skillicons.dev/icons?i=tensorflow)
 
 ### Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=YashChavanWeb&color=000000&style=flat-square&label=Profile+Views&animation=true)
+![Profile Views](https://komarev.com/ghpvc/?username=yashcdev&color=000000&style=flat-square&label=Profile+Views&animation=true)
 
 ## GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/YashChavanWeb">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YashChavanWeb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YashChavanWeb&layout=compact&langs_count=8&theme=dark"/>
+  <a href="https://github.com/yashcdev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashcdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashcdev&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YashChavanWeb">
-    <img src="https://github-stats-alpha.vercel.app/api/?username=YashChavanWeb&cc=000000&tc=FFFFFF&ic=000000&theme=dark&animation=true" alt="Stats" />
+  <a href="https://github.com/yashcdev">
+    <img src="https://github-stats-alpha.vercel.app/api/?username=yashcdev&cc=000000&tc=FFFFFF&ic=000000&theme=dark&animation=true" alt="Stats" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashChavanWeb&theme=dark&animation=true" alt="Profile Summary Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashcdev&theme=dark&animation=true" alt="Profile Summary Card" />
 </p>
 
 
@@ -108,7 +108,7 @@
   <a href="https://youtube.com/@itsyashchavan">
     <img height="25" src="https://img.shields.io/badge/YouTube-%234CAF50.svg?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://github.com/YashChavanWeb">
+  <a href="https://github.com/yashcdev">
     <img height="25" src="https://img.shields.io/badge/github-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
