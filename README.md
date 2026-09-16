@@ -1,18 +1,19 @@
 ![Full Stack Development](https://github.com/user-attachments/assets/17bd43b9-f6b9-4048-9352-9c7af6a45dd6)
 
 # 👋 Hello, I'm Yash Chavan 
-## Full Stack Developer
+## Software Engineer
 
-* 🎓 **Final-year Computer Engineering Student @ VCET, Vasai** with a 9.87/10 CGPA and ranked 1st in the Computer Department.
-* 💡 **Passionate about building Full-Stack and AI-powered solutions** that create real-world impact.
-* 💻 **Experienced in developing and deploying projects** with MERN Stack, and GenAI technologies like LangChain, RAG & MCP Servers.
-* ☁️ **Currently exploring DevOps practices** with platforms like AWS to design scalable infrastructures and implement CI/CD pipelines.
+* 🎓 **Computer Engineering Graduate at VCET, Vasai** with a strong academic record of 9.5 CGPA (highest in the department).
+* 💡 Passionate about building **scalable backend solutions** that solve real-world problems.
+* ☁️ **Cloud & DevOps enthusiast** working with **AWS, Docker, Linux, CI/CD, containerized deployments, and asynchronous workloads**.
+* 🏗️ Interested in **system design, distributed systems, backend architecture, developer tooling, and performance engineering**.
 
-✍️ I am Passionate about sharing knowledge through engaging tutorials on my YouTube Channel - [Yash Chavan](https://www.youtube.com/@yashcdev)
+✍️ I am passionate about sharing what I learn through technical tutorials and engineering content on my YouTube Channel - [**Yash Chavan**](https://www.youtube.com/@yashcdev)
+
 
 
 ## My Resume
-[Resume](https://yashcdev.github.io/Resume/Resume.pdf)
+[Click Here](https://yashcdev.github.io/Resume/Resume.pdf)
 
 
 
@@ -25,7 +26,6 @@
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=js)
 
 #### Frontend and Backend
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -99,13 +99,13 @@
 
 ## Let's Connect
 <p align="center">
-  <a href="https://in.linkedin.com/in/yash-chavan-5b91a426b">
+  <a href="https://in.linkedin.com/in/yashcdev">
     <img height="25" src="https://img.shields.io/badge/linkedin-%234CAF50.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yashchavan4628@gmail.com">
     <img height="25" src="https://img.shields.io/badge/Gmail-%234CAF50.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@itsyashchavan">
+  <a href="https://youtube.com/@yashcdev">
     <img height="25" src="https://img.shields.io/badge/YouTube-%234CAF50.svg?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://github.com/yashcdev">
