@@ -8,7 +8,7 @@
 * ☁️ **Cloud & DevOps enthusiast** working with **AWS, Docker, Linux, CI/CD, containerized deployments, and asynchronous workloads**.
 * 🏗️ Interested in **system design, distributed systems, backend architecture, developer tooling, and performance engineering**.
 
-✍️ I am passionate about sharing what I learn through technical tutorials and engineering content on my YouTube Channel - [**Yash Chavan**](https://www.youtube.com/@yashcdev)
+✍️ I am passionate about sharing what I learn through tutorials and engineering content on my YouTube Channel - [**Yash Chavan**](https://www.youtube.com/@yashcdev)
 
 
 
