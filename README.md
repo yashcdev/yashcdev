@@ -1,7 +1,7 @@
 ![Full Stack Development](https://github.com/user-attachments/assets/17bd43b9-f6b9-4048-9352-9c7af6a45dd6)
 
 # 👋 Hello, I'm Yash Chavan 
-## Software Engineer
+## Software Development Engineer
 
 * 🎓 **Computer Engineering Graduate at VCET, Vasai** with a strong academic record of 9.5 CGPA (highest in the department).
 * 💡 Passionate about building **scalable backend solutions** that solve real-world problems.
@@ -99,18 +99,18 @@
 
 ## Let's Connect
 <p align="center">
-  <a href="https://in.linkedin.com/in/yashcdev">
-    <img height="25" src="https://img.shields.io/badge/linkedin-%234CAF50.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yashchavan4628@gmail.com">
-    <img height="25" src="https://img.shields.io/badge/Gmail-%234CAF50.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@yashcdev">
-    <img height="25" src="https://img.shields.io/badge/YouTube-%234CAF50.svg?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://github.com/yashcdev">
-    <img height="25" src="https://img.shields.io/badge/github-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://in.linkedin.com/in/yashcdev">
+<img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:yashchavan4628@gmail.com">
+<img height="30" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://youtube.com/@yashcdev">
+<img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://github.com/yashcdev">
+<img height="30" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 </p>
 
 
