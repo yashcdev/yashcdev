@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Yash Chavan 
 ## Software Development Engineer
 
-* 🎓 **Computer Engineering Graduate at VCET, Vasai** with a strong academic record of 9.5 CGPA (highest in the department).
+* 🎓 **Computer Science Graduate** with a strong academic record of 9.5 CGPA (highest in the department).
 * 💡 Passionate about building **scalable backend solutions** that solve real-world problems.
 * ☁️ **Cloud & DevOps enthusiast** working with **AWS, Docker, Linux, CI/CD, containerized deployments, and asynchronous workloads**.
 * 🏗️ Interested in **system design, distributed systems, backend architecture, developer tooling, and performance engineering**.
